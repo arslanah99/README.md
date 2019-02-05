@@ -8,5 +8,5 @@
 
 ## Summary
 
-This repository contains all the notes taken by [Arslan](https://gist.github.com/arslanah99) for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all the notes taken by [Arslan](https://gist.github.com/arslanah99) for the Lighthouse Labs Web Development Bootcamp
 
